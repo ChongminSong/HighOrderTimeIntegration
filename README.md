@@ -4,4 +4,4 @@ The codes implement the high-order implicit time integration scheme found in the
 
 The folder "PTIM_Matlab" contains a stand-alone implementation in Matlab. 
 
-The folder "PTIM_Fortran" contains two subfolders "Fortran_Code" and "Matlab_Code". The Matlab functions prepare the inputs (stiffness matrix, mass matrix, force vectors, etc.) and output to temporary files. The Fortran program reads in these temporary files and performs the time integration. The codes need to be modified to suit your own computer. 
+The folder "PTIM_Fortran" contains two subfolders "Fortran_Code" and "Matlab_Code". The Matlab functions prepare the inputs (stiffness matrix, mass matrix, force vectors, etc.) and output to temporary files. The Fortran program reads in these temporary files and performs the time integration. The folder names in the codes need to be modified to suit your own computer. 

@@ -1,6 +1,7 @@
 The codes implement the high-order implicit time integration scheme found in the following two publications: 
-1. Song, Ch., Eisenträger, S. and Zhang, X.R. “High-order implicit time integration scheme based on Padé expansions”, Computer Methods in Applied Mechanics and Engineering, Vol. 390, 114436. https://doi.org/10.1016/j.cma.2021.114436
-2. Song, Ch., Zhang, X.R. and Eisenträger, S. “High-order implicit time integration scheme with controllable numerical dissipation based on mixed-order Padé expansions”, http://arxiv.org/abs/2206.04183 
+1. Song, Ch., Eisenträger, S. and Zhang, X.R. (2022) “High-order implicit time integration scheme based on Padé expansions”, Computer Methods in Applied Mechanics and Engineering, Vol. 390, 114436. https://doi.org/10.1016/j.cma.2021.114436
+2. Song, Ch., Zhang, X.R., Eisenträger, S. and Kumar, A. S. (2023) “High-order implicit time integration scheme with controllable numerical dissipation based on mixed-order Padé expansions”, Computers & Structures
+Vol. 285, 107071. https://doi.org/10.1016/j.compstruc.2023.107071
 
 The folder "PTIM_Matlab" contains a stand-alone implementation in Matlab. 
 
